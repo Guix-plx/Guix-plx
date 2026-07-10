@@ -10,8 +10,7 @@ Acredito muito no uso da **Inteligência Artificial** como uma aliada poderosa n
 
 * 🎓 **Ciência da Computação:** Absorvendo os fundamentos teóricos e práticos da área.
 * 🧠 **IA nos Estudos:** Utilizando inteligência artificial para acelerar meu aprendizado e desvendar algoritmos.
-* 💻 **Full-Stack Mentality:** Desenvolvendo habilidades tanto na interface (Front) quanto na estrutura (Back).
-
+* 💻 **Mentalidade Full-Stack:** Desenvolvendo habilidades tanto no Front-end quanto no Back-end.
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
